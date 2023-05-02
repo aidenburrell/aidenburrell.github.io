@@ -1,0 +1,7 @@
+body {background-color: cornflowerblue;}
+h1, h2, h3 {text-align: center;}
+#wrapper {width: 80%;margin: auto;background-color: hotpink;box-shadow: 10px, 10px; }
+div {width: 90%; margin: auto;}
+.itembox {border: 50px,salmon; border-radius: 3px; background-color: khaki; color: turquoise; padding: 50px;}
+.favorite {border: 50px,black; border-radius: 3px; background-color: yellowgreen; color: gainsboro; padding: 50px;}
+li {display: inline;}
